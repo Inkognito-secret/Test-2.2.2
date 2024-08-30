@@ -8,5 +8,16 @@
 		"uniques": ["New [Military] units start with [15] Experience [in this city]","Unsellable","Free [Opolchenets] appears"
 			,"Destroyed when the city is captured"
 		],
-	}
+	}, 
+	{
+		"name": "Fortification",
+		"replaces": "Hardened Defenses",
+		"cityHealth": 60,
+		"hurryCostModifier": 25,
+		"uniques": [
+			"Only available <in cities with a [Walls]>",
+			"Destroyed when the city is captured",
+			"Creates a [Fort] improvement on a specific tile"
+		], 
+	}, 
 ]
