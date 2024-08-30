@@ -1,12 +1,10 @@
 [
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
+		"name": "Opolchenie",
+		"replaces": "Barracks",
+		"uniqueTo": "Free Cites",
+		"cost": 50,
+		"hurryCostModifier": 20,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
 	}
 ]
