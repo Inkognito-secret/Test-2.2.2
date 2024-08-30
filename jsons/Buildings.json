@@ -25,7 +25,7 @@
 	{
 		"name": "Unity Manifesto", 
 		"uniqueTo": "Free Cites"
-		"isNationalWonder": true,
+		"isWonder": true,
 		"food": 1,
 		"production": 1,
 		"Happiness": 2
