@@ -31,9 +31,8 @@
 		"Happiness": 2
 		"gold": 1,
 		"culture": 1,
-		"cost": 0,
-		"uniques": [
-			"[-10]% Unhappiness from [Population] [in all cities]", 
+		"cost": 1,
+		"uniques": ["[-10]% Unhappiness from [Population] [in all cities]", 
 			"Automatically built in all cities where it is buildable", 
 	                "[2] free [Opolchenets] appears"
 		],
