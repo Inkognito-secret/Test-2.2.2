@@ -11,6 +11,7 @@
 	}, 
 	{
 		"name": "Fortification",
+		"uniqueTo": "Free Cites", 
 		"replaces": "Hardened Defenses",
 		"cost": 120,
 		"cityHealth": 60,
