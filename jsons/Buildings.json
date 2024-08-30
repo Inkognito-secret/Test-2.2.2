@@ -32,11 +32,10 @@
 		"gold": 1,
 		"culture": 1,
 		"cost": 0,
-		"uniques": ["Indicates the capital city",
+		"uniques": [
 			"[-10]% Unhappiness from [Population] [in all cities]", 
 			"Automatically built in all cities where it is buildable", 
-	                "[2] free [Opolchenets] appears", 
-			"Automatically built in all cities where it is buildable"
+	                "[2] free [Opolchenets] appears"
 		],
 		"quote": "This Manifesto will be sacred to all Free Cities. He will consolidate our Unity in the face of difficulties"
 	}
