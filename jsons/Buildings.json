@@ -5,6 +5,7 @@
 		"uniqueTo": "Free Cites",
 		"cost": 50,
 		"hurryCostModifier": 20,
-		"uniques": ["New [Military] units start with [15] Experience [in this city]","Unsellable"],
+		"uniques": ["New [Military] units start with [15] Experience [in this city]","Unsellable","Free [Opolchenets] appears"
+		],
 	}
 ]
