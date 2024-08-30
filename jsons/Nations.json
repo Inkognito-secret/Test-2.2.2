@@ -24,7 +24,10 @@
 		"uniqueName": "Unity"
 		"uniques": [
 			"City-State territory always counts as friendly territory", 
-			"Can spend Gold to annex or puppet a City-State that has been your ally for [5] turns"
+			"Can spend Gold to annex or puppet a City-State that has been your ally for [5] turns", 
+			"[+15]% Great Person generation [in all cities]",
+			"City-State Influence recovers at twice the normal rate",
+			"Starts with [Secrets of the Past]"
 		], 
 		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
