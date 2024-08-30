@@ -12,6 +12,7 @@
 	{
 		"name": "Fortification",
 		"replaces": "Hardened Defenses",
+		"cost": 120,
 		"cityHealth": 60,
 		"hurryCostModifier": 25,
 		"uniques": [
