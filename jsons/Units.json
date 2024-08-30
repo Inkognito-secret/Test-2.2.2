@@ -6,7 +6,7 @@
 		"replaces": "Spearman",
 		"movement": 2,
 		"strength": 17,
-		"cost": 80,
+		"cost": 50,
 		"requiredTech": "The Wheel",
 		"uniques": [
 			"Low Tech",
