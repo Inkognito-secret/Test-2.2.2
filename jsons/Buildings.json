@@ -25,12 +25,13 @@
 	{"name": "Atlas Refuge",
 		"isWonder": true,
 		"uniqueTo": "Free Cites",
-		"specialistSlots": { "Scientist": 1 },
-		"gold": 1,
-		"cityHealth": 40,
+		"specialistSlots": { "Administrator": 1 },
+		"gold": 2,
+		"cityHealth": 0,
+		"production": 1
 		"cost": 0,
 		"uniques": [
-			"Provides [1] [Power]",
+			"Provides [1] [Weapons]",
 			"[2] free [Surveyor] units appear",
 			"Can only be built <in [Capital] cities>",
 			"Gain a free [Food Store] [in this city]",
