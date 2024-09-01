@@ -21,18 +21,18 @@
 			"Destroyed when the city is captured",
 			"Creates a [Fort] improvement on a specific tile"
 		], 
-	}, 
+	},
 	{
-		"name": "Unity Manifesto",
+		"name": "Atlas Refuge",
 		"isWonder": true,
-		"uniqueTo": "Free Cites",
+		"uniqueTo": "Atlas",
+		"specialistSlots": { "Scientist": 1 },
 		"gold": 1,
-		"production" 1,
-		"cityHealth": 10,
+		"cityHealth": 40,
 		"cost": 0,
 		"uniques": [
 			"Provides [1] [Power]",
-			"[2] free [Opolchenets] units appear",
+			"[2] free [Surveyor] units appear",
 			"Can only be built <in [Capital] cities>",
 			"Gain a free [Food Store] [in this city]",
 			"Automatically built in all cities where it is buildable"
@@ -43,5 +43,6 @@
 				"text": "At the Refuge, I am creating more than a town, more even than a polity; it is a new world, where individuals will be free to act without the burden of taxation or the specter of injustice. Here, I have created a truly voluntary society, where the citizens associate in rational self interest; from love, not from fear of punishment. I have sent you this invitation because you have greatness within you; think of all you have achieved in your life, and how much more you could do, if you were not held back. Choose something different. Choose Atlas."
 			}
 		]
-	}
+	},
+
 ]
