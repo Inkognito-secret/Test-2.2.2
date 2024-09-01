@@ -36,13 +36,8 @@
 			"Can only be built <in [Capital] cities>",
 			"Gain a free [Food Store] [in this city]",
 			"Automatically built in all cities where it is buildable"
-		],
-		"quote": "This Manifesto will be sacred to all Free Cities. He will consolidate our Unity in the face of difficulties",
-		"civilopediaText": [
-			{
-				"This Manifesto will be sacred to all Free Cities. He will consolidate our Unity in the face of difficulties."
-			}
 		]
-	},
+		"quote": "This Manifesto will be sacred to all Free Cities. He will consolidate our Unity in the face of difficulties",	
+	}
 
 ]
