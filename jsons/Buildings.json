@@ -23,9 +23,9 @@
 		], 
 	},
 	{
-		"name": "Atlas Refuge",
+		"name": "Inity Manifesto",
 		"isWonder": true,
-		"uniqueTo": "Atlas",
+		"uniqueTo": "Free Cites",
 		"specialistSlots": { "Scientist": 1 },
 		"gold": 1,
 		"cityHealth": 40,
