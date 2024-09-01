@@ -24,6 +24,8 @@
 	}, 
 	{
 		"name": "Unity Manifesto",
+		"uniqueTo": "Free Cites"
+		"cost": 0,
 		"production": 1,
 		"culture": 2,
 		"isWonder": true,
