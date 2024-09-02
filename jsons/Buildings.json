@@ -1,24 +1,19 @@
 [
-	{
-		"name": "Unity manifesto",
+       {
+	        "name": "Palace",
+	        "uniqueTo": "Free Cites" 
 		"isWonder": true,
-		"uniqueTo": "Free Cites",
-		"specialistSlots": { "Farmer": 1 },
+		"production": 3,
+		"science": 3,
 		"culture": 1,
-		"cityHealth": 10,
+		"cityStrength": 2,
 		"cost": 0,
 		"uniques": [
-			"Provides [1] [Weapons]",
-			"[2] free [Opolchenets] units appear",
+			"Provides [1] [Power]",
+			"[2] free [Surveyor] units appear",
 			"Can only be built <in [Capital] cities>",
 			"Gain a free [Food Store] [in this city]",
 			"Automatically built in all cities where it is buildable"
 		],
-		"quote": "This Manifesto will be sacred to all Free Cities. He will consolidate our Unity in the face of difficulties",
-		"civilopediaText": [
-			{
-				"text": "This Manifesto will be sacred to all Free Cities. He will consolidate our Unity in the face of difficulties"
-			}
-		]
-	},
+	}
 ]
