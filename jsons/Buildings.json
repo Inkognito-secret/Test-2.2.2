@@ -38,6 +38,18 @@
 			"Automatically built in all cities where it is buildable"
 		]
 		"quote": "This Manifesto will be sacred to all Free Cities. He will consolidate our Unity in the face of difficulties",	
+	},
+	{
+		"name": "Citywide Congress",
+		"uniqueTo": "Free Cites"
+		"cost": 100,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"[+2 Culture] per [4] population [in all cities]",
+			"[-10]% Unhappiness from [Population] [in all cities]",
+			"Only available <if [Search for Survivors] is constructed>",
+			"Can only be built <in [Capital] cities>",
+			"Only available <in cities without a [Council]>",
+			"Destroyed when the city is captured"
+		]
 	}
-
-]
