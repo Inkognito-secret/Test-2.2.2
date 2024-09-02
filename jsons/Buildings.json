@@ -1,28 +1,5 @@
 [
 	{
-		"name": "Opolchenie",
-		"replaces": "Barracks",
-		"uniqueTo": "Free Cites",
-		"cost": 50,
-		"hurryCostModifier": 20,
-		"uniques": ["New [Military] units start with [15] Experience [in this city]","Unsellable","Free [Opolchenets] appears"
-			,"Destroyed when the city is captured"
-		],
-	}, 
-	{
-		"name": "Fortification",
-		"uniqueTo": "Free Cites", 
-		"replaces": "Hardened Defenses",
-		"cost": 120,
-		"cityHealth": 60,
-		"hurryCostModifier": 25,
-		"uniques": [
-			"Only available <in cities with a [Walls]>",
-			"Destroyed when the city is captured",
-			"Creates a [Fort] improvement on a specific tile"
-		], 
-	},
-	{
 		"name": "Unity manifesto",
 		"isWonder": true,
 		"uniqueTo": "Free Cites",
@@ -35,7 +12,8 @@
 			"[2] free [Opolchenets] units appear",
 			"Can only be built <in [Capital] cities>",
 			"Gain a free [Food Store] [in this city]",
-			"Automatically built in all cities where it is buildable"
+			"Automatically built in all cities where it is buildable"]
 		],
 		"quote": "This Manifesto will be sacred to all Free Cities. He will consolidate our Unity in the face of difficulties" 
 	}
+]
